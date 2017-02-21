@@ -17,4 +17,8 @@
     <string name="laboratory_ignore_window_secure_title">Ignore screenshot restricted</string>
     <string name="laboratory_ignore_window_secure_summary">Allow taking screenshots from restricted window like Incognito Mode.</string>
 
+    <!-- Pocket judge -->
+    <string name="proximity_wake_title">Prevent accidental wake-up</string>
+    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen</string>
+
 </resources>
