@@ -15,4 +15,11 @@
     <string name="fingerprint_enroll_touch_dialog_message_front">Touch the sensor on the front of your phone.</string>
     <string name="fingerprint_enroll_touch_dialog_message_rear">Touch the sensor on the back of your phone.</string>
     <string name="fingerprint_enroll_touch_dialog_message_side">Touch the sensor on the side of your phone.</string>
+
+    <!-- Sound: Title for the option defining the phone ringtone for slot1 on Muilti SIM device. [CHAR LIMIT=50] -->
+    <string name="ringtone1_title">Phone ringtone - SIM 1</string>
+
+    <!-- Sound: Title for the option defining the phone ringtone for slot2 on Muilti SIM device. [CHAR LIMIT=50] -->
+    <string name="ringtone2_title">Phone ringtone - SIM 2</string>
+
 </resources>
