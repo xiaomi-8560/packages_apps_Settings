@@ -274,4 +274,8 @@
     <string name="qstile_requires_unlocking_title">Secure QS tiles</string>
     <string name="qstile_requires_unlocking_summary">Require unlocking to use sensitive QS tiles</string>
 
+    <!-- Black theme for dark mode -->
+    <string name="berry_black_theme_title">Pure black</string>
+    <string name="berry_black_theme_summary">Pure black background for dark theme</string>
+
 </resources>
