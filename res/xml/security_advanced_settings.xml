@@ -122,6 +122,14 @@
         android:fragment="com.android.settings.security.MemtagPage"
         settings:controller="com.android.settings.security.MemtagPagePreferenceController" />
 
+    <!-- QSTile requires unlocking before being accessible -->
+    <com.android.settings.halcyon.preference.SecureSettingSwitchPreference
+        android:order="302"
+        android:key="qstile_requires_unlocking"
+        android:title="@string/qstile_requires_unlocking_title"
+        android:summary="@string/qstile_requires_unlocking_summary"
+        android:defaultValue="true"/>
+
     <!-- work profile security section -->
     <PreferenceCategory
         android:order="310"

@@ -165,6 +165,10 @@
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
     <string name="ambient_display_screen_off_udfps_summary">To wake up your screen and unlock, long press your under-display fingerprint sensor.</string>
 
+    <!-- QSTile requires unlocking before being accessible -->
+    <string name="qstile_requires_unlocking_title">Secure QS tiles</string>
+    <string name="qstile_requires_unlocking_summary">Require unlocking to use sensitive QS tiles</string>
+
     <!-- Quick Settings quick pulldown -->
     <string name="quick_settings_quick_pull_down_title">Quick QS pulldown</string>
     <string name="quick_settings_quick_pull_down_summary">Pull down statusbar from right side to expand quick settings</string>
