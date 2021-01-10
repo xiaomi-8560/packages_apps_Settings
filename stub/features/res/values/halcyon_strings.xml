@@ -285,4 +285,9 @@
     <string name="systemui_restart_message">Do you want to restart SystemUI to apply changes?</string>
     <string name="ok">Restart</string>
     <string name="cancel">Cancel</string>
+
+    <!-- Doze on double tap -->
+    <string name="double_tap_title">Double tap</string>
+    <string name="doze_double_tap_title">Double tap to check phone</string>
+    <string name="doze_double_tap_summary">Pulse notifications by a double tap</string>
 </resources>
