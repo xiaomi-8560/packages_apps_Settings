@@ -77,6 +77,7 @@ public class SystemNavigationGestureSettings extends RadioButtonPickerFragment i
             "pref_system_navigation_suggestion_complete";
 
     private static final String KEY_SHOW_A11Y_TUTORIAL_DIALOG = "show_a11y_tutorial_dialog_bool";
+    private static final String FULLSCREEN_GESTURE_OVERLAY_PKG = "com.custom.overlay.systemui.navbar.gestural";
 
     static final String LAUNCHER_PACKAGE_NAME = "com.google.android.apps.nexuslauncher";
 
@@ -310,7 +311,6 @@ public class SystemNavigationGestureSettings extends RadioButtonPickerFragment i
         }
     }
 
-    @VisibleForTesting
     static void setCurrentSystemNavigationMode(IOverlayManager overlayManager, String key) {
         String overlayPackage = NAV_BAR_MODE_GESTURAL_OVERLAY;
         switch (key) {

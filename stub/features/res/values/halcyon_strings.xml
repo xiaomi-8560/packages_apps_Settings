@@ -239,4 +239,12 @@
     <string name="hide_developer_status_summary">Hide developer status from apps</string>
     <string name="search">Search</string>
     <string name="search_apps">Search apps</string>
+
+    <!-- Fullscreen gestures -->
+    <string name="navbar_category">Navigation bar</string>
+
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">Pill length</string>
+    <string name="hide_label">Hidden</string>
+    <string name="long_label">Long</string>
 </resources>
