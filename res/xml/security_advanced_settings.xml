@@ -123,6 +123,13 @@
         android:fragment="com.android.settings.security.HideDeveloperStatusSettings"
         settings:controller="com.android.settings.security.HideDeveloperStatusPreferenceController" />
 
+    <!-- QSTile requires unlocking before being accessible -->
+    <com.android.settings.halcyon.preference.SecureSettingSwitchPreference
+        android:key="secure_lockscreen_qs_disabled"
+        android:title="@string/qstile_requires_unlocking_title"
+        android:summary="@string/qstile_requires_unlocking_summary"
+        android:defaultValue="false"/>
+
     <!-- work profile security section -->
     <PreferenceCategory
         android:order="310"
