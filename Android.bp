@@ -90,6 +90,7 @@ android_library {
         "Settings-change-ids",
         "SystemUIUnfoldLib",
         "halcyon-preference-lib",
+        "faceunlock_framework",
     ],
 
     libs: [
