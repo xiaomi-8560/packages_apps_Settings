@@ -23,7 +23,7 @@ import android.os.UserManager;
 
 import com.android.settings.core.BasePreferenceController;
 
-import com.android.internal.util.bliss.HideDeveloperStatusUtils;
+import com.android.internal.util.halcyon.HideDeveloperStatusUtils;
 
 import java.util.List;
 
