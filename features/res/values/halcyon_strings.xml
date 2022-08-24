@@ -90,4 +90,9 @@
     <string name="custom_timeout_summary_20mins">20 minutes</string>
     <string name="custom_timeout_summary_30mins">30 minutes</string>
     <string name="custom_timeout_summary_1hour">1 hour</string>
+
+    <!-- Parallel space -->
+    <string name="laboratory_parallel_space_title">Parallel space</string>
+    <string name="laboratory_parallel_space_summary">Run multiple instances of the same application in parallel.</string>
+
 </resources>
