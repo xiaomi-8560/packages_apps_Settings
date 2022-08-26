@@ -20,4 +20,15 @@
     <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
     <string name="lockscreen_battery_info_summary">Display negociated charger max current and voltage and battery temperature on lockscreen while charging</string>
 
+    <!-- Status bar category -->
+    <string name="cust_statusbar_category">Status bar</string>
+
+    <!-- Network traffic -->
+    <string name="network_traffic_title">Network speed</string>
+    <string name="network_traffic_summary">Show network speed indicator in status bar</string>
+    <string name="network_traffic_master_switch_title">Use Network network speed Indicator</string>
+    <string name="network_options_title">Options</string>
+    <string name="network_traffic_autohide_title">Hide indicator when there is no activity</string>
+    <string name="network_traffic_autohide_summary">Hide when network traffic speed is under 1 KB/s</string>
+
 </resources>
