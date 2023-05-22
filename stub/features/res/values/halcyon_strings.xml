@@ -263,4 +263,10 @@
     <string name="back_options_dialog_title">Options</string>
     <string name="back_height_title">Back height</string>
     <string name="back_height_message">Amount of screen height used as a touchable region for back gesture</string>
+
+    <!-- Ambient wake toggles -->
+    <string name="doze_gesture_ambient_title">Show Ambient</string>
+    <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
+    <string name="gesture_wake_ambient">Show Ambient</string>
+    <string name="gesture_wake">Fully wake</string>
 </resources>
