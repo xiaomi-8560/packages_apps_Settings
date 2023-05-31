@@ -448,4 +448,8 @@
     <string name="network_traffic_autohide_threshold_title">Auto-hide threshold</string>
     <string name="network_traffic_refresh_interval_title">Refresh interval</string>
 
+    <!-- Hide developer status -->
+    <string name="hide_developer_status_title">Hide developer status</string>
+    <string name="hide_developer_status_summary">Hide developer status from apps</string>
+
 </resources>
