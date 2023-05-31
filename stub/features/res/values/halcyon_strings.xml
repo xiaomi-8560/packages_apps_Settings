@@ -117,4 +117,10 @@
     <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
     <string name="battery_maximum_capacity_not_available">@string/battery_cycle_count_not_available</string>
 
+    <!-- Hide developer status -->
+    <string name="hide_developer_status_title">Hide developer status</string>
+    <string name="hide_developer_status_summary">Hide developer status from apps</string>
+    <string name="search">Search</string>
+    <string name="search_apps">Search apps</string>
+
 </resources>
