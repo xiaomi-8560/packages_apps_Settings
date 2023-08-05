@@ -76,6 +76,10 @@
             android:key="android.theme.customization.adaptive_icon_shape"
             android:title="@string/theme_customization_icon_shape_title"/>
 
+        <ListPreference
+            android:key="android.theme.customization.icon_pack"
+            android:title="@string/theme_icon_pack_title"/>
+
         <Preference
             android:fragment="com.android.settings.accessibility.TextReadingPreferenceFragment"
             android:key="text_reading_options"
