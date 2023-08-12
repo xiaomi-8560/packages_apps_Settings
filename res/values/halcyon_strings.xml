@@ -52,11 +52,6 @@
     <string name="app_volume_title">Per-app volume control</string>
     <string name="app_volume_summary">Allow to set different volume levels for each app</string>
 
-    <!-- [CHAR_LIMIT=NONE] Display Settings: Title of the setting which enables overlays to customize headline and body fonts. -->
-    <string name="theme_customization_font_title">Font</string>
-    <!-- [CHAR_LIMIT=NONE] Display Settings: Title of the setting which enables overlays to customize the adaptive icon shape (e.g. launcher icons). -->
-    <string name="theme_customization_icon_shape_title">Icon shape</string>
-
     <!-- Black theme for dark mode -->
     <string name="berry_black_theme_title">Pure black</string>
     <string name="berry_black_theme_summary">Pure black background for dark theme</string>
