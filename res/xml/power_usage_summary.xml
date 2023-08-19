@@ -64,6 +64,12 @@
         android:summary="@string/battery_style_category_summary"
         android:fragment="com.android.settings.halcyon.battery.BatteryIcon" />
 
+    <com.android.settings.halcyon.preference.SystemSettingSwitchPreference
+        android:key="lockscreen_battery_info"
+        android:title="@string/lockscreen_battery_info_title"
+        android:summary="@string/lockscreen_battery_info_summary"
+        android:defaultValue="true" />
+        
     <com.android.settingslib.widget.FooterPreference
         android:key="power_usage_footer"
         android:title="@string/battery_footer_summary"
