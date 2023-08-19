@@ -53,4 +53,16 @@
     <string name="laboratory_ignore_window_secure_title">Ignore screenshot restricted</string>
     <string name="laboratory_ignore_window_secure_summary">Allow taking screenshots from restricted window like Incognito Mode.</string>
 
+    <!-- Navigation Gesture customization -->
+    <string name="navbar_category">Navigation bar</string>
+    <string name="gesture_navbar_length_title">Pill length</string>
+    <string name="hide_label">Hidden</string>
+    <string name="long_label">Long</string>
+    
+    <!-- Back gesture height -->
+    <string name="back_height_low_label">Full</string>
+    <string name="back_height_high_label">Bottom</string>
+    <string name="back_options_dialog_title">Options</string>
+    <string name="back_height_message">Amount of screen height used as touchable region for back gesture.</string>
+
 </resources>
