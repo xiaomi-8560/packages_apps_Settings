@@ -49,4 +49,8 @@
     <string name="volume_rocker_wake_title">Volume wake</string>
     <string name="volume_rocker_wake_summary">Wake your device up by pressing the volume keys</string>
 
+    <!-- Ignore window secure -->
+    <string name="laboratory_ignore_window_secure_title">Ignore screenshot restricted</string>
+    <string name="laboratory_ignore_window_secure_summary">Allow taking screenshots from restricted window like Incognito Mode.</string>
+
 </resources>
