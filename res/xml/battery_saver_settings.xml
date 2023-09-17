@@ -47,4 +47,12 @@
         android:key="battery_saver_footer_preference"
         android:title="@*android:string/battery_saver_description"
         settings:searchable="false"/>
+
+    <Preference
+        android:key="smart_pixels"
+        android:order="99"
+        android:title="@string/smart_pixels_title" 
+        android:summary="@string/smart_pixels_summary" 
+        android:fragment="com.android.settings.fuelgauge.batterysaver.SmartPixelsSettings" />
+
 </PreferenceScreen>
