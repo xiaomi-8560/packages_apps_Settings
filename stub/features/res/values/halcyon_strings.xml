@@ -221,4 +221,11 @@
     <string name="berry_black_theme_title">Pure black</string>
     <string name="berry_black_theme_summary">Pure black background for dark theme</string>
 
+    <!-- Low Gamma -->
+    <string name="low_gamma_title">Gamma correction</string>
+    <string name="low_gamma_summary">Enable or disable gamma correction for low brightness.</string>
+    <string name="systemui_restart_title">Restart SystemUI</string>
+    <string name="systemui_restart_message">Do you want to restart SystemUI to apply changes?</string>
+    <string name="ok">Restart</string>
+    <string name="cancel">Cancel</string>
 </resources>

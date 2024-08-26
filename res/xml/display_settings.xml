@@ -45,6 +45,14 @@
             android:title="@string/even_dimmer_display_title"
             android:summary="@string/even_dimmer_display_summary"
             settings:controller="com.android.settings.display.EvenDimmerPreferenceController"/>
+
+        <!-- Low Gamma -->
+        <SwitchPreference
+            android:key="toggle_gamma"
+            android:title="@string/low_gamma_title"
+            android:summary="@string/low_gamma_summary"
+            android:defaultValue="false"
+            settings:controller="com.android.settings.display.DisplayGammaCorrectionPreferenceController"/>
     </PreferenceCategory>
 
     <PreferenceCategory
@@ -76,6 +84,7 @@
             android:key="pocket_judge"
             android:title="@string/proximity_wake_title"
             android:summary="@string/proximity_wake_summary" />
+
     </PreferenceCategory>
 
     <PreferenceCategory
